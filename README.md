@@ -23,21 +23,27 @@ Ngày nay việc tạo trang web bán hàng ngày càng quan trọng .
 Website chính là công cụ marketing online, là phương tiện tốt nhất để giới thiệu hình ảnh tiếp thị sản phẩm và các loại hình dịch vụ . 
 Để khách hàng hiểu rõ hơn và có cơ sở để đánh giá, đi đến chọn lựa.
 ![1](https://user-images.githubusercontent.com/53656767/144016862-e7180f50-beb2-4880-ae21-ec6c98ae0702.png)
-Sử dụng ngôn ngữ:
-Html, php, java, 
-![2](https://user-images.githubusercontent.com/53656767/144018084-46671713-e2cb-44e9-a734-a951729235ea.png)
+
+Sử dụng ngôn ngữ:Html, php, java,
+ ![2](https://user-images.githubusercontent.com/53656767/144018084-46671713-e2cb-44e9-a734-a951729235ea.png)
+
 Sử dụng database
 Sử dụng database giúp tạo ra các sản phẩm chuyên nghiệp hơn, lưu trữ có hệ thống, dễ dàng trong công tác quản lí. 
 Với ưu điểm đó, database ngày càng phổ biến trong lĩnh vực lập trình ứng dụng nói riêng và công nghệ thông tin nói chung.
 ![image](https://user-images.githubusercontent.com/53656767/144018265-514d8ec0-3a9d-48de-ac22-b5e79c7c84bc.png)
+
 Sử dụng github , host:
 GitHub là một hệ thống quản lý dự án và phiên bản code, hoạt động . 
 Mọi người có thể clone lại mã nguồn từ một repository và Github chính là một dịch vụ máy chủ repository công cộng, mỗi người có thể tạo tài khoản trên đó để tạo ra các kho chứa của riêng mình để có thể làm việc. Và đây là demo khi sử dụng github của nhóm em 
+
 LINK Github: https://github.com/Hieu-Bom/Nhom7
 Sử dụng host
 Bước 1: Chọn nhà cung cấp hosting đáng tin cậyBước 2: Upload file website (hay còn gọi là source code) lên hostingBước 3: Upload bản backup site và tiến hành giải nénBước 4: Kiểm tra các file có nằm đúng trong thư mục public_html chưaBước 5: Upload Database vào MySQL databaseBước 6: Kiểm tra cơ bản website có hoạt động bình thường không
+
 LINK :https://duchieuwebbb.000webhostapp.com/View/client/index.php
+ 
 ![image](https://user-images.githubusercontent.com/53656767/144018720-0640d948-0f34-4c0e-9302-4a16a180876e.png)
+
 II : Nội dung trang web 
 1 .CLIENT
 A, Đăng ký :
@@ -45,15 +51,17 @@ A, Đăng ký :
 ![image](https://user-images.githubusercontent.com/53656767/144018818-3bc39bb5-bf8f-4db1-9a06-5e9bae8ada4d.png)
 B, Đăng nhập :
 Giao diện đăng nhập của người dùng . Sau đó sẽ vào trang web , sử dụng theo mô hình MCV
+
 ![image](https://user-images.githubusercontent.com/53656767/144019029-b2cfeeab-d53f-449d-b01b-26ff2016a074.png)
 Mô hình MVC gồm 3 loại chính là thành phần bên trong không thể thiếu khi áp dụng mô hình này:
 Model: Một model là dữ liệu được sử dụng bởi chương tình. Đây có thể là cơ sở dữ liệu, file hay một đối tượng đơn giản. Chẳng hạn như biểu tượng hay là một nhân vật trong game.
-View: View là phương tiện hiển thị các đối tượng trong một ứng dụng. Chẳng hạn như hiển thị một cửa sổ, nút hay văn bản trong một cửa sổ khác. Nó bao gồm bất cứ thứ gì mà người dùng có thể nhìn thấy được.
-Controller: Một controller bao gồm cả Model lẫn View. Nó nhận input và thực hiện các update tương ứng.
+View: View là phương tiện hiển thị các đối tượng trong một ứng dụng. Chẳng hạn như hiển thị một cửa sổ, nút hay văn bản trong một cửa sổ khác. Nó bao gồm bất cứ thứ gì mà người dùng có thể nhìn thấy được.Controller: Một controller bao gồm cả Model lẫn View. Nó nhận input và thực hiện các update tương ứng.
+
 II : Nội dung trang web 
+
 Giao diện người dùng : 
-+ Sử dụng trang index.php để thiết kế 
-+  Hiện thị menu , danh sách sản phẩm , giỏ hảng , phân trang, thông tin liên lạc ,...
++ Sử dụng trang index.php để thiết kế
++ Hiện thị menu , danh sách sản phẩm , giỏ hảng , phân trang, thông tin liên lạc ,...
 ![image](https://user-images.githubusercontent.com/53656767/144019303-731e7c9a-e18f-436a-bac9-d0f680705a3a.png)
 ![image](https://user-images.githubusercontent.com/53656767/144019350-a7b4b285-cf8a-4abb-8b1b-46dd5c51d4db.png)
 ![image](https://user-images.githubusercontent.com/53656767/144019377-d3e40c3a-07da-42bf-9bfa-5ef86ef4d8ea.png)
@@ -69,7 +77,8 @@ Trang thanh toán:
 ![image](https://user-images.githubusercontent.com/53656767/144020183-2acefbec-5dba-45f3-b4aa-ab73ded4652c.png)
 Thực hiện in hóa đơn:
 ![image](https://user-images.githubusercontent.com/53656767/144020254-10dbe937-834f-4357-ba7d-d7f349591e77.png)
-II : Nội dung trang web Admin
+
+III : Nội dung trang web Admin
 -Thiết kế các giao diện đăng nhập .
 -Giao diên thêm sửa xóa , tìm kiếm  sản phẩm.
 - Kết nối với database.
