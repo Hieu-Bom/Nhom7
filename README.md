@@ -53,6 +53,7 @@ B, Đăng nhập :
 Giao diện đăng nhập của người dùng . Sau đó sẽ vào trang web , sử dụng theo mô hình MCV
 
 ![image](https://user-images.githubusercontent.com/53656767/144019029-b2cfeeab-d53f-449d-b01b-26ff2016a074.png)
+
 Mô hình MVC gồm 3 loại chính là thành phần bên trong không thể thiếu khi áp dụng mô hình này:
 Model: Một model là dữ liệu được sử dụng bởi chương tình. Đây có thể là cơ sở dữ liệu, file hay một đối tượng đơn giản. Chẳng hạn như biểu tượng hay là một nhân vật trong game.
 View: View là phương tiện hiển thị các đối tượng trong một ứng dụng. Chẳng hạn như hiển thị một cửa sổ, nút hay văn bản trong một cửa sổ khác. Nó bao gồm bất cứ thứ gì mà người dùng có thể nhìn thấy được.Controller: Một controller bao gồm cả Model lẫn View. Nó nhận input và thực hiện các update tương ứng.
